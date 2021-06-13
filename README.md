@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexm7&label=Profile%20views&color=0e75b6&style=flat" alt="hexm7" /> </p>
 
-- 🔭 I’m currently working on [Cura](https://lorrenburg.com/cura)
+- ![output-onlinepngtools (1)](https://user-images.githubusercontent.com/77036902/121796912-56b7fd00-cc3a-11eb-89a0-ae14852e0758.png) I’m currently working on [Cura](https://lorrenburg.com/cura)
 
-- 👀 I'm looking for Javascript developers for [Comio](https://lorrenburg.com/comio)
+- ![output-onlinepngtools (2)](https://user-images.githubusercontent.com/77036902/121796923-751df880-cc3a-11eb-9294-fb24014b2957.png)
+ I'm looking for Javascript developers for [Comio](https://lorrenburg.com/comio)
 
 - 💬 Ask me about **TensorFlow / PyTorch**
 
