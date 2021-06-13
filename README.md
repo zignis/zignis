@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm HexM7 (aka VelociRaptor)</h1>
-<h3 align="center">I'm a self-taught ML/AI expert with 3 years of ~~Googling~~ programming experience. I am usually always working on something, you can check out all my projects over on my website!</h3>
+<h3 align="center">I'm a self-taught ML/AI expert with 3 years of ~~Googling~~ programming experience. I am usually always working on something, you can check out all my projects over on my [website!](https://lorrenburg.com)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexm7&label=Profile%20views&color=0e75b6&style=flat" alt="hexm7" /> </p>
 
 - 🔭 I’m currently working on [Cura](https://lorrenburg.com/cura)
 
-- I'm looking for Javascript developers for [Comio](https://lorrenburg.com/comio)
+- 👀 I'm looking for Javascript developers for [Comio](https://lorrenburg.com/comio)
 
 - 💬 Ask me about **TensorFlow / PyTorch**
 
