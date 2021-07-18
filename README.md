@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexm7&label=Profile%20views&color=0e75b6&style=flat" alt="hexm7" /> </p>
 
-- ⚙️ I'm looking for part-time developers for [Comio](https://lorrenburg.xyz/comio) (discord.js)
-
 - 📫 How to reach me **velociraptorm77@gmail.com**
 
  
