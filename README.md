@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexm7&label=Profile%20views&color=0e75b6&style=flat" alt="hexm7" /> </p>
 
-- 📫 How to reach me **velociraptorm77@gmail.com**
+- 📫 Reach me at **velociraptorm77@gmail.com**
 
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hexm7&show_icons=true&locale=en" alt="hexm7" /></p>
