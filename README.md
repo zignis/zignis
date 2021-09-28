@@ -8,8 +8,6 @@
 <a href="mailto:velociraptorm77@gmail.com">![velociraptorm77@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://discord.com/users/736304634603503626/">![VelociRaptor](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )</a>
-<a href="https://open.spotify.com/user/krnnlwotewhur1tszllw61hfd">![Sniff](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)</a>
 <a href="https://hexm7.pages.dev">![HexM7](https://img.shields.io/badge/Portfolio-HexM7-blue)</a>
  
 ![Stats](https://github-readme-stats.vercel.app/api?username=hexm7&theme=github_dark&show_icons=true&locale=en)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexM7&theme=github_dark&layout=compact)&nbsp;![HexM7's github streak](https://github-readme-streak-stats.herokuapp.com/?user=HexM7&theme=blue-green)
