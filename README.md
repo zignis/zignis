@@ -12,7 +12,9 @@
 )</a>
 <a href="https://hexm7.pages.dev">![HexM7](https://img.shields.io/badge/Portfolio-HexM7-blue)</a>
  
-![Stats](https://github-readme-stats.vercel.app/api?username=hexm7&theme=github_dark&show_icons=true&locale=en)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexM7&theme=github_dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=hexm7&theme=github_dark&show_icons=true&locale=en)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexM7&theme=github_dark&layout=compact)&nbsp;![HexM7's github streak](https://github-readme-streak-stats.herokuapp.com/?user=HexM7&theme=blue-green)
+
+
 
 - My Workspace:
 
