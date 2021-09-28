@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm HexM7</h1>
 <h3 align="center">I'm a self-taught developer with 3 years of <del>Googling</del> programming experience. I am usually always working on something, you can check some of my works on my website or on my GitHub page.</h3>
 
-```      
-         /\_/\
-    ____/ o o \
-  /~____  =ø= /
- (______)__m_m)
-```
+![My fox](/assets/v6zd7nt1kvf31.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexm7&label=Profile%20views&color=0e75b6&style=flat" alt="hexm7" /> </p>
 
