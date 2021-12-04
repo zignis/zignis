@@ -9,5 +9,3 @@ I am a person who learns most of the stuff by himself. I have nearly mastered `J
 
 - `❤️` Support my Projects:
   - [Sponsor](https://lorrenburg.xyz/donate)
-
-And that's it. No fancy profile.
