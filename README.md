@@ -9,3 +9,5 @@ I am a person who learns most of the stuff by himself. I have nearly mastered `J
 
 - `❤️` Support my Projects:
   - [Sponsor](https://lorrenburg.xyz/donate)
+
+Apart from programming & technical essence, I am a cinematography hobbyist. I love cinema cameras such as the the `Sony Venice` series, `Sony FX` series (`FX-6` notably), `Blackmagic Ursa Mini`, the invincible `Arri Alexa` & `Red DSMC`. I know a substantial amount of color grading that I usually perform in `DaVinci Resolve Studio`. There's more to share regarding me, but I want to keep things short and save some chunks of space on GitHub's database.
